@@ -1,5 +1,3 @@
-# Krishhhhh-pat
-
 # Hi, I'm Krishna
 
  Final-year BCA student at SVGU  
