@@ -14,17 +14,7 @@
 - Tools: Git, GitHub  
 
 
-
-##  Projects
-Here are some of my beginner projects (more coming soon ):  
-
-- [Simple Calculator](https://github.com/your-username/calculator) – A basic calculator built with Python  
-- [To-Do List App](https://github.com/your-username/todo-app) – A simple task manager using JavaScript  
-- [Student Database Management](https://github.com/your-username/student-db) – Mini project using MySQL  
-
-
-
 ##  Connect with Me
-- LinkedIn: [ 
-- Email: youremail@example.com  
-- Portfolio: [github.com/your-username](https://github.com/your-username)
+- LinkedIn:https://www.linkedin.com/in/krishna-patel
+- Email: patelkrishnakp2006@gmail.com  
+  
